@@ -50,8 +50,6 @@ PyTorch · TensorFlow · Scikit-learn · Pandas
 - Faster incident diagnosis and reduced MTTR
 - Designed for real-world on-call workflows
 
-*(Repo coming soon / actively evolving)*
-
 
 ## 🤝 Connect With Me
 
