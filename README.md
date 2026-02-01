@@ -64,6 +64,10 @@ PyTorch · TensorFlow · Scikit-learn · Pandas
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/aadarxhhhhh/" target="_blank">
+    <img src="https://https://github.com/Adarxhhhh/AadarshPortfolio/blob/main/assets/favicon.ico"
+      height="30" width="40" />
+  </a>
 </p>
 
 ---
