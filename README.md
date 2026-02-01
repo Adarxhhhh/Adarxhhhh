@@ -64,12 +64,12 @@ PyTorch · TensorFlow · Scikit-learn · Pandas
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
       height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/aadarxhhhhh/" target="_blank">
-    <img src="https://https://github.com/Adarxhhhh/AadarshPortfolio/blob/main/assets/favicon.ico"
+  <a href="https://adarxhhhh.github.io/AadarshPortfolio/" target="_blank">
+    <img src="https://github.com/Adarxhhhh/AadarshPortfolio/blob/main/assets/file.svg"
       height="30" width="40" />
   </a>
 </p>
 
 ---
 
-⭐️ *If you’re interested in backend systems, cloud scalability, or applied AI — feel free to connect or explore my repos.*
+⭐️ *If you’re interested in backend systems, scaling systems, or applied AI — feel free to connect or explore my repos and portfolio.*
